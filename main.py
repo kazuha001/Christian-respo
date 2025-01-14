@@ -33,4 +33,4 @@ plt.tight_layout()
 
 plt.show()
 
-plt.
+plt.savefig("Result.png")
